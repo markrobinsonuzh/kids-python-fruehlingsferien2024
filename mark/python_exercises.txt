@@ -1,0 +1,50 @@
+
+PYTHON PROGRAMMING EXERCISES
+
+
+
+EASY
+
+1. Write a program to print out the following pattern:
+
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5
+..
+(specify a variable with the number to stop at)
+
+
+2. Write a program to write out the multiplication table (up to 12) for a specified number. Use input() to get this number.
+
+3. Write a program to check if the given string is a palindrome. Use input() to receive a string and then write whether it is a palindrome.
+
+
+4. Write a program that inputs a number (integer). From this number, assuming it is greater than 1, compute: i) the sum of all integers up to that number (e.g., if the number is 3, calculate 3+2+1=6); ii) the factorial: the product of all integers up to that number (e.g., if the number is 4, calculate 4*3*2*1 = 24)
+
+5. Write a program to work out: "What is the value of 1/2 of 2/3 of 3/4 of 4/5 of 5/6 of 6/7 of 7/8 of 8/9 of 9/10 of X?". Start with X=1000.
+
+6. Write a program to write out the first N (say, N=20) numbers of the Fibonacci sequence
+
+7. Write a program to randomly assign people (Mark, Lynn, Damien, Stefan) to cup colours (blue, clear, purple, pink). Take as input a "seed" (this tells the random number generator where to start).
+
+8. Write a program to flip a (fair) coin X times (say, X = 100). Print out each flip of the coin and count how many times you see a H(ead) or T(ail). Print out the proportion of times you see a Head. Is it a fair coin (or is the random number generator fair)? 
+
+9. Write a program to roll a (fair) die X times (say, X = 100). Print out each roll of the dice and count how many times you see each number. Is it a fair die (or is the random number generator fair)?
+
+
+MIDDLE
+
+
+1. Write a program that finds all prime numbers under N (say, N=200)
+
+
+HARD
+
+
+1. Write a program to decompose a number, X, into its "prime factorization". 
+For example, 72 = 2 * 2 * 2 * 3 * 3
+
+2. Write a program to find all the Smith numbers under 200.
+
